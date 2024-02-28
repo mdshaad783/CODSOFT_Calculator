@@ -79,5 +79,6 @@ hr{
     html{
         font-size: 50%;
     }
-    
+    body{
+        height:100vh;}
   }
